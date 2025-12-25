@@ -1,0 +1,17 @@
+#for first time connection with vs code
+git config --global user.name "satishsanhotra89"
+git config --global user.email "satish.sanhotra89@gmail.com"
+git config --global.ui auto
+
+#mandatory command
+git init
+git remote add origin githubURL
+
+
+
+git pull origin main
+git status
+git add.
+git status
+git commit -m "commit message"
+git push
